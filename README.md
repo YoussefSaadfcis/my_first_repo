@@ -1,1 +1,1 @@
-composer install
+bbsh composer install
